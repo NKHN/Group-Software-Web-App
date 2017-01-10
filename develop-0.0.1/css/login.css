@@ -1,0 +1,60 @@
+body
+{
+	font-family: 'Avenir Next W02 Light', sans-serif;
+	font-size: 1em;
+}
+h1
+{
+	padding-top: 8px;
+	color: #FFF;
+	margin-bottom: 5px;
+}
+input 
+{
+	border-style: solid;
+	border-color: #3B215F;
+	border-radius: 2px;
+	padding: 8px;
+	margin: 5px 0 10px 0;
+}
+
+#button
+{
+	border-radius: 2px;
+	border-color: #4A4A4A;
+	color: #FFF;
+	background-color: #4A4A4A;
+}
+#button:hover
+{
+	transition: 1.50s;
+	border-radius: 2px;
+	border-color: #3B215F;
+	color: #FFF;
+	background-color: #3B215F;
+}
+#top_banner
+{
+	width: 400px;
+	margin: auto;
+	border-bottom: solid;
+}
+#logo
+{
+	float: left;
+	border-radius: 2px;
+	padding-right: 15px;
+}
+#asset_manage
+{
+	margin:12px 0 5px 0;
+	color: #000;
+	font-style: italic;
+	font-size: 12px;
+}
+#form_container
+{
+	width: 400px;
+	margin: auto;
+	padding-top: 25px;
+}
